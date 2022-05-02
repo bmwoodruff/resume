@@ -1,0 +1,117 @@
+---
+title: "Ben Woodruff's Resume"
+author: Ben Woodruff
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ["resume_woodruff.css", "resume"]
+---
+
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> bmwoodruff@gmail.com
+- <i class="fa fa-github"></i> [github.com/bmwoodruff](https://github.com/bmwoodruff)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/ben-woodruff-4523485/](https://www.linkedin.com/in/ben-woodruff-4523485/)
+- <i class="fa fa-phone"></i> +1 208-227-4984
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Highly skilled in LaTeX (20+ years), Mathematica (10+ years), R (7+ years) and Linux  (Debian based) (15+ years). Capable and familiar with may other languages including HTML/CSS, JavaScript/JQuery, PHP, SQL,  Java, Maple/SageMath/Matlab, C++, Python, SPSS/PSPP.
+
+- Data visualization expertise using [ggplot2](https://ggplot2.tidyverse.org/).
+
+- Data science and statistics teaching and course development.
+
+- Cocreator of large (100+ pages) open source education materials for mathematics, statistics, and data science. 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made with [**pagedown**](https://github.com/rstudio/pagedown).   
+Last updated on `r Sys.Date()`.   
+
+
+
+Main
+================================================================================
+
+[Ben Woodruff](https://byuimath.com/bmw/all/pw/) {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+
+### Brigham Young University
+
+Ph.D. in Mathematics (GPA: 4.0)
+
+Provo, Utah
+
+2005
+
+Dissertation: [Statistical Properties of Thompson's Group and Random Pseudo Manifolds](https://scholarsarchive.byu.edu/etd/568/)
+
+### Utah State University
+
+B.S. in Mathematics (GPA: 4.0)
+
+Salt Lake City, Utah
+
+2001
+
+Work Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Mathematics Department Faculty
+
+Brigham Young University - Idaho 
+
+Rexburg, ID
+
+2005 - Current
+
+- Teach 3 semesters a year, from early September through late July
+- Conduct professional development activities, creating [educational materials](https://byuimath.com/bmw/all/pw/index.php?n=Main.EducationMaterials)
+- (2012+) Internship coordinator for mathematical sciences majors 
+- (2005+) Local Organizer for Putnam Exam 
+- (2021+) Master Learning Practitioner Coordinator and Thinkshop Lead 
+- (2010-11) Outcomes and Assessment University Committee member 
+- $\LaTeX$ (2002 - present): Use $\LaTeX$ on a daily basis, including tikz
+- SPSS/PSPP/Excel (2006+): Common tools used in statistics program
+- PHP (2008+): Maintain various wikis. Wrote PMWiki's [jsMath](https://www.pmwiki.org/wiki/Cookbook/JsMath) cookbook. 
+- MySQL, MediaWiki, Webmaster (2013+): Creator and webmaster for department webspace (web hosting and dedicated servers)
+- JavaScript/HTML5/CSS (2014+): Created an interactive [normal probability applet](https://byuimath.com/apps/normprob.html)
+- JQuery/CSS (2014): Enabled instructor customization of course text 
+- R, Curl, XML (2015): Automated course package creation, saving faculty thousands of hours
+- SageMath/PHP: Wrote PHP code that enables SageMath calls in $\LaTeX$-enabled wikis.
+- R, Tidyverse, ggplot, dplyr (2019+): Instruct students in a Data Wrangling and Visualization course
+- RShiny (2021+): Wrote RShiny applets to give students feedback in Applied Calculs for Data Analysis, and then created a Wordle word finder (and other apps). 
+- bookdown (2022): Collaborated to create an inquiry based-learning [task list](https://byuistats.github.io/DS350_2022/prep-tasks/) for our Data Wrangling and Visualization course. 
+*Python: Guided a student senior project in Python that used MonteCarlo methods for analyzing different strategies of the card game "Dominion".
+
+
+### Mathematical Association of America Service 
+
+Intermountain Section of the MAA
+
+[maa.org](https://www.maa.org/)
+
+2012 - Current
+
+- Work with section officers to facilitate MAA activites. 
+- Contributed Talks organizer (2012 - 2014)
+- First Vice Chair (2015 - 2016)
+- Webmaster and technical support (2016 - 2022)
+- Conference Organizer for yearly meetings (2021) 
+
