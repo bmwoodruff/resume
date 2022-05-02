@@ -98,7 +98,7 @@ Rexburg, ID
 - R, Tidyverse, ggplot, dplyr (2019+): Instruct students in a Data Wrangling and Visualization course
 - RShiny (2021+): Wrote RShiny applets to give students feedback in Applied Calculs for Data Analysis, and then created a Wordle word finder (and other apps). 
 - bookdown (2022): Collaborated to create an inquiry based-learning [task list](https://byuistats.github.io/DS350_2022/prep-tasks/) for our Data Wrangling and Visualization course. 
-*Python: Guided a student senior project in Python that used MonteCarlo methods for analyzing different strategies of the card game "Dominion".
+- Python: Guided a student senior project in Python that used MonteCarlo methods for analyzing different strategies of the card game "Dominion".
 
 
 ### Mathematical Association of America Service 
