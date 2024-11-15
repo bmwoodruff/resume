@@ -66,7 +66,8 @@ Rexburg, ID
 
 
 - Teach undergraduate mathematics, data science, and statistics courses such as multivariate calculus, data wrangling and visualization, abstract algebra, introduction to analysis, linear algebra (intro and senior level), differential equations (ordinary and partial), engineering statistics, etc.
-- (2021+) Collaborated to create an R (tidyerse) data wrangling and visualization text, serving 200+ students a year and growing.
+- (2024 ) Co-managed (with Dr. Michael Dorff and Dr. Jen Brooks) a 7 week REU at BYU in Provo for 4 students from BYU-Idaho, focusing on extending research related to complex harmonic polynomials.
+- (2021+) Collaborated to create an R (tidyverse) data wrangling and visualization text, serving 200+ students a year and growing.
 - (2019+) Collaborated to create *Applied Calculus for Data Analysis*, a calculus course focusing on data science applications, wrote over 1/3 of the course text, and wrote and maintain all course related R Shiny apps.
 - (2013+) Department webmaster, serving a variety of courses impacting over 30 instructors and 5000 students every semester, including setup and maintenance for open source PHP wikis and SQL databases. 
 - (2014+) Created and maintain a JavaScript [normal probability applet](https://byuimath.com/apps/normprob.html) used by statistics courses at BYU-I and BYU Pathway World wide, serving 2500+ students a year around the globe.
@@ -90,6 +91,20 @@ Intermountain Section of the MAA
 - Elected First Vice Chair (2015-16) - section leadership
 - Webmaster and technical support (2016-22) - section leadership
 - Conference organizer for yearly meeting (2021) with 150+ participants 
+
+
+### Tech Lead for Generative AI NumPy Project
+
+POSSEE via OpenTeams
+
+[possee.org](https://possee.org/)
+
+2024
+
+- Led a team of student interns to create an automated system capable of adding thousands of AI generated examples into NumPy's documentation (see  https://github.com/possee-org/genai-numpy).
+
+
+
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
